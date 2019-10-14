@@ -34,3 +34,5 @@ Carthage
 #
 # Pods/
 *.xcworkspace
+
+Package.resolved
